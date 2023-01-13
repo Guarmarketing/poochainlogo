@@ -1,0 +1,11 @@
+{
+"name": "Poochain",
+    "website": "https://poochain.co",
+    "description": "Poochain is Meme Token Enthusiasts and Cryptocurrency lovers who believe in the transparency and financial freedom of the future",
+    "explorer": "https://bscscan.com/token/0xa1611e8d4070dee36ef308952cf34255c92a01c5",
+    "type": "BEP20",
+    "symbol": "POOP",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xa1611e8d4070dee36ef308952cf34255c92a01c5"
+}
